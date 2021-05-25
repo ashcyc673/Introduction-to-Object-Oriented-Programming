@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Workshop8" targetName="Workshop8" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="896668ae-7cb7-4c97-8de8-3b91da72a92e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1euwR4ha5jbbds7lLuEfaaIXtCy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Workshop8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Workshop8" TARGET_NAME="Workshop8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Workshop8" RUN_TARGET_NAME="Workshop8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="896668ae-7cb7-4c97-8de8-3b91da72a92e" name="Default Changelist" comment="" />
+      <created>1595184773959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595184773959</updated>
+      <workItem from="1595184778807" duration="18186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="457" height="773" key="GridCell.Tab.0.bottom" timestamp="1595208405126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="457" height="773" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595208405126" />
+    <state width="457" height="773" key="GridCell.Tab.0.center" timestamp="1595208405123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="457" height="773" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595208405123" />
+    <state width="457" height="773" key="GridCell.Tab.0.left" timestamp="1595208405122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="457" height="773" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595208405122" />
+    <state width="457" height="773" key="GridCell.Tab.0.right" timestamp="1595208405124">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="457" height="773" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595208405124" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1595184777752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595184777752" />
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog" timestamp="1595190086703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="88" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1595190086703" />
+  </component>
+</project>

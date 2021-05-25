@@ -1,0 +1,14 @@
+In line number 52 of your output:
+The output should be:
+Enter Make and Model: abc
+^
+But your output is: 
+aEnter Make and Model: abc
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [E] ASCII code(69)
+but you printed
+  [a] ASCII code(97)
+

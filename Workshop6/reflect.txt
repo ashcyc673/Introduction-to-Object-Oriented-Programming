@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           07/07/2020
+//==============================================
+// Reflection
+//==============================================
+
+I learned about shallow copy and deep copy from this workshop, I felt it's fun to learn this one, but I still need to get more clear idea on operator overloading, it literally confused me all the time.  And if I check the condition if the parameter is nullptr or negative value or empty, I usually use *this = Basket(); to go back to the empty state, but for this time is when I did the same thing on my copy constructor and it just has error, so I learned a lesson like don't use this in copy constructor.
+
+At the first time I tried to submit the code, I matched the code, but again memory leaking, I just can't find the bug, but when I look back to the main code, the task 5 basket objects are not all empty, last one has something in it that's why I need to use the if statement to check the condition like if there is something in the basket I need to deallocate first!!

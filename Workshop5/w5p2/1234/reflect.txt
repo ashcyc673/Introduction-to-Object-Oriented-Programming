@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           06/28/2020
+//==============================================
+// Reflection
+//==============================================
+
+I'm always confused about how to set the decimal points, like some part of it needs to use 3 points, some part of it needs 2 points, like it's really need to carefully read through the main file then figure it out, because a if I set the precision in the wrong place, it can mess up all of my code.
+
+
+For this time we learn about an explicit specifier, to make sure only pass the single argument in the constructor to convert from one type to another in order to get the right type for a parameter, and helps avoid potential ambiguities.  
+
+

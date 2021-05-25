@@ -1,0 +1,14 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           06/14/2020
+//==============================================
+// Reflection
+//==============================================
+
+
+For the workshop 3 part 2 I'm struggling at beginning was when should I use setter and when should I use getter, or how can I update the data to the private class, it sounds like a very easy question but more me my brain is twisted but we basically just use the public set and get function to access private properties, so we modified the part 1 use this two functions to get and set update the data, it's really confusing at first but now I'm more familiar with how can I access to the private properties, it's a really good practice.
+
+It's really frustrated to use setf fix the decimal point, I set 2 at first and then all the source code show 2 decimal points, and then I google it I need to use the unseat and also use the setf again into the function, now I learned one more skill which is very good  can be use in the future code.

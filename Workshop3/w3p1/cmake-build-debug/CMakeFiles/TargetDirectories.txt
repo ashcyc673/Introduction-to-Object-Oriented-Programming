@@ -1,0 +1,3 @@
+/Users/ashleyc./Desktop/w3p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ashleyc./Desktop/w3p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ashleyc./Desktop/w3p1/cmake-build-debug/CMakeFiles/w3p1.dir

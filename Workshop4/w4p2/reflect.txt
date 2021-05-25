@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           06/14/2020
+//==============================================
+// Reflection
+//==============================================
+
+This workshop is pretty fun, although I didn't watch Dragon ball before, but still it's fun to write a program that to see how these aliens can win the battle, the most challenge part for me still the memory allocation, and for part 2 we need to deallocate first then  allocate the new memory in there, so it looks me more time back and forth to make sure do I success deallocate them first, or I would get memory leaking.
+
+For part 2 we need to update the fight function, before that we have const for this function, and const is for not let us or other programmers to change to value so it can protect the properties, that's why this time we have to remove the const on fight function.

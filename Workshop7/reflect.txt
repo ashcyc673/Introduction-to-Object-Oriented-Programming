@@ -1,0 +1,13 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           07/15/2020
+//==============================================
+// Reflection
+//==============================================
+
+When I looked at the lecture notes about inheritance I felt like this is a interesting topic, I watched the tutorial videos about this topic, I just can't wait we can learn this topic as soon as possible, it is very cool that another class can access to the other class's functions, and even if the same function name you can shadowing the base class into the derived class.
+
+When I was doing the workshop I looked at the instruction, and I saw the same function name, it just add few more lines so I think about shadowing!  And it works!! I'm really happy that I finally can use this technique.

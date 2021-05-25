@@ -1,0 +1,14 @@
+//==============================================
+// Name:           Chiao-Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           06/07/2020
+//==============================================
+// Reflection
+//==============================================
+
+It is very convenient to declare the same name for functions, at first probably has a little bit confusion like how is this going to work, but this is the amazing part for the C++, and I always think pass by reference and address are the same things but actually it's not, they do the same job, but not exactly the same thing.
+
+And then it is really good to learn dynamic memory allocation, it's user friendly and also you don't need to worry about some garbage value will store in the program. It's a great practice to always put on nullptr, I'm sure practice more can be more familiar with the dynamic allocation, it is a very important skills to use in your program.
+
