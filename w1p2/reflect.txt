@@ -1,0 +1,16 @@
+//==============================================
+// Name:           Chiao Ya Chang
+// Student Number: 130402191
+// Email:          cchang76@myseneca.ca
+// Section:        NEE
+// Date:           05/31/2020
+//==============================================
+// Workshop:     1
+// Part:      2
+//==============================================
+
+In this workshop I learned about how to create a basic C++ module,
+I thought will be easier than C, but looks like the C family are all tough,
+but for C++ can omit lots of complex steps, which is good thing for me.
+
+This program look like easy by the output, but actually needs lots of functions to run the program, and part 1 is more like let us get more familiar how to create module and also basic functions in C++ library.  Part 2 is next level, need to do more research online and how the use the library functions, it's difficult for me as a beginner, but great practice.
